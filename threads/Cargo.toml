@@ -1,0 +1,44 @@
+[package]
+name = "threads"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "thread_09"
+path = "src/thread_09.rs"
+
+[[bin]]
+name = "thread_08"
+path = "src/thread_08.rs"
+
+[[bin]]
+name = "thread_07"
+path = "src/thread_07.rs"
+
+[[bin]]
+name = "thread_06"
+path = "src/thread_06.rs"
+
+[[bin]]
+name = "thread_05"
+path = "src/thread_05.rs"
+
+[[bin]]
+name = "thread_04"
+path = "src/thread_04.rs"
+
+[[bin]]
+name = "thread_03"
+path = "src/thread_03.rs"
+
+[[bin]]
+name = "thread_02"
+path = "src/thread_02.rs"
+
+[[bin]]
+name = "thread_01"
+path = "src/thread_01.rs"
